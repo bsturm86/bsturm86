@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsturm86
 - 👀 I’m interested in FCM and ecology
 - 🌱 I’m currently learning writing scripts in R
-- 📫 How to reach me bsturm13@gmail.com
+- 📫 How to reach me bsturm13@gmail.com 
 
 <!---
 bsturm86/bsturm86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
