@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bsturm86
 - 👀 I’m interested in FCM and ecology
-- 🌱 I’m currently learning writing scripts in R
 - 📫 How to reach me bsturm13@gmail.com 
 
 <!---
